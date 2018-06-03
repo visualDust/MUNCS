@@ -1,0 +1,10 @@
+2018-06-03T10:59:55.840720 Event : MockFormula 2018.6.0 OL_startup
+  2018-06-03T10:59:55.850557 Exception : java.io.IOException: Cannot run program "mshta": error=2, 没有那个文件或目录
+2018-06-03T11:00:03.410121 Event : PopupTrigger at Screen_now_panel
+2018-06-03T11:00:04.698475 Event : PopupTrigger at Record_text_area
+2018-06-03T11:00:05.258103 Event : PopupTrigger at Record_text_area
+2018-06-03T11:00:06.142070 Event : PopupTrigger at Listlist
+2018-06-03T11:00:06.826926 Event : PopupTrigger at Listlist
+2018-06-03T11:00:08.775076 Event : WINDOW_CLOSE_CLICKED
+  2018-06-03T11:00:10.128742 Exception : java.io.IOException: Cannot run program "taskkill": error=2, 没有那个文件或目录
+2018-06-03T11:00:10.131682 Event : MockFormula 2018.6.0 OL_stop

@@ -11,6 +11,7 @@ public class VersionView {
             "MockFormula Version LastForever ：........(小声啜泣)\n" +
             "\n当前版本\n" +
             "MockFormula Version 2018.6.0 OL\n" +
+            "修复了某些右键菜单的问题\n"+
             "对控制台进行了全新的布局（累死我也。。后悔当初不好好写UI）\n"+
             "加入了辅助朗读模块（还在测试，完成了主要部分）\n"+
             "重新架构了项目的大部分乱七八糟的内容\n"+
