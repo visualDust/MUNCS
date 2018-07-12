@@ -68,7 +68,7 @@ RAM  �Ƽ�4GB����ߣ�
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 07月 12日 星期四 09:39:54 CST
+2018年 07月 12日 星期四 09:43:45 CST
 ---
 > 是谁COMMIT
 
@@ -89,191 +89,14 @@ https://github.com/visualDust/MockFormula.git
 位于分支 master
 您的分支与上游分支 'origin/master' 一致。
 
-要提交的变更：
-  （使用 "git reset HEAD <文件>..." 以取消暂存）
-
-	新文件：   .idea/misc.xml
-	新文件：   .idea/vcs.xml
-
 尚未暂存以备提交的变更：
-  （使用 "git add/rm <文件>..." 更新要提交的内容）
+  （使用 "git add <文件>..." 更新要提交的内容）
   （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
-	修改：     .github/ISSUE_TEMPLATE/bug_report.md
-	修改：     .github/ISSUE_TEMPLATE/feature_request.md
-	修改：     .gitignore
-	修改：     .idea/misc.xml
-	删除：     .idea/vcs.xml
-	修改：     CODE_OF_CONDUCT.md
-	修改：     CONTRIBUTING.md
-	修改：     LICENSE
-	修改：     LayOut/META-INF/MANIFEST.MF
-	删除：     MockFormula/.idea/artifacts/MockFormula_jar.xml
-	删除：     MockFormula/.idea/libraries/weblaf_complete_1_28.xml
-	删除：     MockFormula/.idea/misc.xml
-	删除：     MockFormula/.idea/modules.xml
-	删除：     MockFormula/.idea/workspace.xml
-	修改：     MockFormula/2018-05-27MF.log
-	修改：     MockFormula/2018-06-03MF.log
-	修改：     MockFormula/MUNCS.iml
-	修改：     MockFormula/MockFormula.iml
-	修改：     MockFormula/out/production/MockFormula/META-INF/MANIFEST.MF
-	修改：     MockFormula/out/production/MockFormula/MockFormula/Database/DataResource.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/Database/Defaultcountries.list
-	修改：     MockFormula/out/production/MockFormula/MockFormula/Database/ICONIMG.png
-	修改：     MockFormula/out/production/MockFormula/MockFormula/Database/startupwindowcoffee.png
-	修改：     MockFormula/out/production/MockFormula/MockFormula/Database/startupwindowlemon.png
-	修改：     MockFormula/out/production/MockFormula/MockFormula/Database/weblaf_complete_1.28.jar
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$10.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$11.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$12.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$13.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$14.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$15.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$16.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$17.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$18$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$18.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$3.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$4.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$5.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$6.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$7.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$8.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$9.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$list$Order.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$list.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/Resource.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/VersionView.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/MFLauncher$ProcessThread.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/MFLauncher.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/Clockcontrol$clockerthread.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/Clockcontrol.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/EventOutput.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/Filereader.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/RAMCleaner$cleaner.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/RAMCleaner.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/Speaker$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/Speaker$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/Speaker.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/TempCreater$1tempwaitthr.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/Method/TempCreater.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/CheckItemPanel.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$10.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$11.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$12.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$13.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$14.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$15.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$16.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$17.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$18.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$19.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$1waitthr.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$20.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$21.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$22.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$23.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$24.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$25.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$26.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$27.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$28.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$29.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$3.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$30.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$31.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$32.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$4.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$5.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$6.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$7.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$8.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$9.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$EmptyImageObserver.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$ThumbPanel.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$1$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$2$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$3.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$4.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$5.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$6.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditAnnouncementWindow$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditAnnouncementWindow$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditAnnouncementWindow.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditQuestionWindow$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditQuestionWindow$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditQuestionWindow.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/MessageWindow.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$3.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$4.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$5.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$6.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$7.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/VoiceConfigWindow.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenCover.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$1.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$2.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$3.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$CaptureService.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$colorchangethread.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$inforactioncolormovingthread.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$questionactioncolormovingthread.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$windowSizeChangeListener.class
-	修改：     MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow.class
-	修改：     MockFormula/studio.visualdust.product.muncs/META-INF/MANIFEST.MF
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/Database/DataResource.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/Database/Defaultcountries.list
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/Database/ICONIMG.png
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/Database/startupwindowcoffee.png
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/Database/startupwindowlemon.png
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/Database/weblaf_complete_1.28.jar
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/DataStructure/OrderLists.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/DataStructure/Resource.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/DataStructure/VersionView.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/MFLauncher.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/Clockcontrol.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/EventOutput.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/Filereader.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/RAMCleaner.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/Speaker.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/TempCreater.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/CheckItemPanel.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/ConsoleWindow.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/DisplayConfigWindow.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/EditAnnouncementWindow.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/EditQuestionWindow.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/MessageWindow.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/SpeakerPanel.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/VoiceConfigWindow.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Display/ScreenCover.java
-	修改：     MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Display/ScreenWindow.java
-	修改：     PULL_REQUEST_TEMPLATE.md
 	修改：     README.MD
-	修改：     "\346\234\200\345\220\216\344\270\200\346\254\241PUSH\347\232\204\350\257\264\346\230\216.useless"
+	修改：     README.md
 
-未跟踪的文件:
-  （使用 "git add <文件>..." 以包含要提交的内容）
-
-	.idea/libraries/
-	.idea/modules.xml
-	.idea/workspace.xml
-	README.md
-	RM
-	commit.sh
-
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ---
 > 当前文件列表
 
