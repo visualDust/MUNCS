@@ -22,31 +22,31 @@ import java.util.Objects;
 
 public class ConsoleWindow {
     public JFrame consolewind = new JFrame();
-    public Resource respack = new Resource();
-    public Clockcontrol clocker = new Clockcontrol();
-    public ScreenWindow screen = new ScreenWindow();//Create the screen window
-    public DisplayConfigWindow configwind = new DisplayConfigWindow();
+    private Resource respack = new Resource();
+    private Clockcontrol clocker = new Clockcontrol();
+    private ScreenWindow screen = new ScreenWindow();//Create the screen window
+    private DisplayConfigWindow configwind = new DisplayConfigWindow();
 
-    public JPanel border = new JPanel();
-    public JPanel subframe_left = new JPanel();
-    public JPanel leftdownPanel= new JPanel();
-    public JPanel subframe_right = new JPanel();
+    private JPanel border = new JPanel();
+    private JPanel subframe_left = new JPanel();
+    private JPanel leftdownPanel = new JPanel();
+    private JPanel subframe_right = new JPanel();
     public JPanel listpanel = new JPanel();
-    public JPanel screenactionpanel = new JPanel();
-    public JPanel screentwiterpanel = new JPanel();
-    public JPanel screenviewpanel = new JPanel();
-    public JPanel editWindShowAndTwitButtonPanel = new JPanel();
-    public JPanel editButtonPanel = new JPanel();
+    private JPanel screenactionpanel = new JPanel();
+    private JPanel screentwiterpanel = new JPanel();
+    private JPanel screenviewpanel = new JPanel();
+    private JPanel editWindShowAndTwitButtonPanel = new JPanel();
+    private JPanel editButtonPanel = new JPanel();
     public ThumbPanel screennowpanel = new ThumbPanel();
 
-    public JPanel clockcontrolpanel = new JPanel();
-    public JPanel clockpanel = new JPanel();
+    private JPanel clockcontrolpanel = new JPanel();
+    private JPanel clockpanel = new JPanel();
     public JTextArea screennexttextarea = new JTextArea();
-    public JScrollPane screennexttextscrollpane = new JScrollPane(screennexttextarea);
+    private JScrollPane screennexttextscrollpane = new JScrollPane(screennexttextarea);
 
-    public JTextField twitertextfield = new JTextField();
+    private JTextField twitertextfield = new JTextField();
 
-    public JPanel clockfieldpanel = new JPanel();
+    private JPanel clockfieldpanel = new JPanel();
     public JLabel clocktotaltextfield = new JLabel("0", JLabel.CENTER);
     public JLabel clocksingletextfield = new JLabel("0", JLabel.CENTER);
 
@@ -54,20 +54,20 @@ public class ConsoleWindow {
 
 
     public List listcontrol = new List();
-    public VersionView versionView = new VersionView();
+    private VersionView versionView = new VersionView();
     public JTextArea noticeanderrortextarea = new JTextArea();
 
-    public JButton startclockbutton = new JButton("开始计时");
-    public JButton pauseclockbutton = new JButton("暂停计时");
-    public JButton nexttimebutton = new JButton("结束此次");
-    public JButton clearclockbutton = new JButton("清空计时器");
-    public JButton twitbutton = new JButton("推送到主屏");
+    public  JButton startclockbutton = new JButton("开始计时");
+    public  JButton pauseclockbutton = new JButton("暂停计时");
+    private JButton nexttimebutton = new JButton("结束此次");
+    private JButton clearclockbutton = new JButton("清空计时器");
+    private JButton twitbutton = new JButton("推送到主屏");
 
     public EditAnnouncementWindow editAnnouncementWindow;
     public EditQuestionWindow editQuestionWindow;
-    public SpeakerPanel speakerPanel = new SpeakerPanel();
+    private SpeakerPanel speakerPanel = new SpeakerPanel();
 
-    public int totaltime;
+    private int totaltime;
     public int singletime;
 
     JFileChooser recordsavesfilechooser = new JFileChooser();
@@ -142,7 +142,7 @@ public class ConsoleWindow {
         noticeanderrortextarea.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseReleased(MouseEvent e) {
-                if (e.getButton()==MouseEvent.BUTTON3) {
+                if (e.getButton() == MouseEvent.BUTTON3) {
                     EventOutput.outputEvent("PopupTrigger at notice_and_error_textarea");
                     errinfopopmenu.show(noticeanderrortextarea, e.getX(), e.getY());
                 }
@@ -247,7 +247,7 @@ public class ConsoleWindow {
         screennexttextarea.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseReleased(MouseEvent e) {
-                if (e.getButton()==MouseEvent.BUTTON3) {
+                if (e.getButton() == MouseEvent.BUTTON3) {
                     EventOutput.outputEvent("PopupTrigger at screen_next_text_area");
                     screennextpopmenu.show(screennexttextarea, e.getX(), e.getY());
                 }
@@ -336,7 +336,7 @@ public class ConsoleWindow {
         screennowpanel.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseReleased(MouseEvent e) {
-                if (e.getButton()==MouseEvent.BUTTON3) {
+                if (e.getButton() == MouseEvent.BUTTON3) {
                     EventOutput.outputEvent("PopupTrigger at Screen_now_panel");
                     screencontrolpopmenu.show(screennowpanel, e.getX(), e.getY());
                 }
@@ -361,9 +361,9 @@ public class ConsoleWindow {
                 editQuestionWindow.ShowUp();
             }
         });
-        editWindShowAndTwitButtonPanel.setLayout(TempCreater.tempgridlayout(1,2,5,5));
+        editWindShowAndTwitButtonPanel.setLayout(TempCreater.tempgridlayout(1, 2, 5, 5));
         editWindShowAndTwitButtonPanel.add(screentwiterpanel);
-        editButtonPanel.setLayout(TempCreater.tempgridlayout(2,1,5,5));
+        editButtonPanel.setLayout(TempCreater.tempgridlayout(2, 1, 5, 5));
         editButtonPanel.add(shouEditAnnWindButton);
         editButtonPanel.add(showEditQuesWindButton);
         editWindShowAndTwitButtonPanel.add(editButtonPanel);
@@ -390,7 +390,7 @@ public class ConsoleWindow {
         recordtextarea.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseReleased(MouseEvent e) {
-                if (e.getButton()==MouseEvent.BUTTON3) {
+                if (e.getButton() == MouseEvent.BUTTON3) {
                     EventOutput.outputEvent("PopupTrigger at Record_text_area");
                     recordtextareapopmenu.show(recordtextarea, e.getX(), e.getY());
                 }
@@ -490,7 +490,7 @@ public class ConsoleWindow {
         clockpanel.setLayout(TempCreater.tempgridlayout(2, 1, 5, 5));
         clockpanel.add(clockfieldpanel);
         clockpanel.add(clockcontrolpanel);
-        leftdownPanel.setLayout(TempCreater.tempgridlayout(2,1,5,5));
+        leftdownPanel.setLayout(TempCreater.tempgridlayout(2, 1, 5, 5));
         leftdownPanel.add(editWindShowAndTwitButtonPanel);
         leftdownPanel.add(clockpanel);
         subframe_left.add(leftdownPanel);
@@ -713,9 +713,9 @@ public class ConsoleWindow {
         this.consolewind.setSize(Toolkit.getDefaultToolkit().getScreenSize());
     }
 
-    public static void ExitSystem(){
+    public static void ExitSystem() {
         try {
-                Runtime.getRuntime().exec("taskkill -f -im mshta.exe");
+            Runtime.getRuntime().exec("taskkill -f -im mshta.exe");
         } catch (Exception e) {
             EventOutput.outputException(e);
         }

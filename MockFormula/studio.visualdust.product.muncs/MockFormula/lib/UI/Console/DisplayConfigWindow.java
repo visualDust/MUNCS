@@ -23,7 +23,7 @@ public class DisplayConfigWindow {
     public static Resource respack = new Resource();
     public static JPanel border = new JPanel();
     private JColorChooser colorchoosewind = new JColorChooser();
-    public static JDialog colorchoosedialog;
+    public static JDialog colorChooseDialog;
     public static Color configbackgroundcolor = new Color(222, 222, 222);
     public static Color configfontcolor = new Color(66, 66, 66);
     public static VersionView versionView = new VersionView();
@@ -74,27 +74,27 @@ public class DisplayConfigWindow {
         changeconsolebackcolorbutton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                colorchoosedialog = JColorChooser.createDialog(border, "选择一个颜色", false, colorchoosewind, new ActionListener() {
+                colorChooseDialog = JColorChooser.createDialog(border, "选择一个颜色", false, colorchoosewind, new ActionListener() {
                     @Override
                     public void actionPerformed(ActionEvent e) {
                         Resource.backgroundcolor = colorchoosewind.getColor();
                         MFLauncher.console.reloadcolors();
                     }
                 }, null);
-                colorchoosedialog.setVisible(true);
+                colorChooseDialog.setVisible(true);
             }
         });
         changedisplaybackcolorbutton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                colorchoosedialog = JColorChooser.createDialog(border, "选择一个颜色", false, colorchoosewind, new ActionListener() {
+                colorChooseDialog = JColorChooser.createDialog(border, "选择一个颜色", false, colorchoosewind, new ActionListener() {
                     @Override
                     public void actionPerformed(ActionEvent e) {
                         Resource.screenbuckcolor = colorchoosewind.getColor();
                         ScreenWindow.reloadcolors();
                     }
                 }, null);
-                colorchoosedialog.setVisible(true);
+                colorChooseDialog.setVisible(true);
             }
         });
 

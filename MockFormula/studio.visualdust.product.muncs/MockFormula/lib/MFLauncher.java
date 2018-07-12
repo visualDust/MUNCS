@@ -99,7 +99,7 @@ public class MFLauncher extends JPanel {
         orderLists = new OrderLists();
         console = new ConsoleWindow();//Create the console window
         console.consolewind.setTitle(VersionView.getNowVersion()+" By VisualDust");
-        console.consolewind.setMinimumSize(new Dimension(1024, 720));
+        console.consolewind.setMinimumSize(new Dimension(1024,760));
         orderLists.AddToConsole();
         try {
             console.consolewind.setIconImage(new ImageIcon(DataResource.class.getResource("ICONIMG.png").toURI().toURL()).getImage());
