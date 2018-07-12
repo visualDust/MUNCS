@@ -1,6 +1,6 @@
 
-* Èç¹ûÄãÏëÏÂÔØ..¿´ÏÂÃæ / If you want to download ..See here
-# Learn More / ¹ØÓÚ£¨English/¼òÌåÖÐÎÄ£©
+* If you want to download ..See here
+# Learn More
 
 > Introduction
 
@@ -34,41 +34,10 @@ RAM recommended 4GB or higher.,
 The owner of the project, @visualdust, and all contributors to the project, @visualdust and @papercube, are now in high school and are good kids who love to study .
 
 
-> ÏîÄ¿½éÉÜ
-
-MockFormula£¬Ô­ÏîÄ¿Ãû³ÆÎªMUNCSLemon¡£ÊÇÔÚ2018Äê³õÎ÷º£°¶Ä£ÄâÁªºÏ¹ú×éÎ¯»áµÄÒªÇóÏÂ¿ªÊ¼¿ª·¢µÄÒ»¸ö¿ªÔ´¡¢Ãâ·Ñ¡¢¹¦ÄÜÇ¿´ó¡¢Ö§³Ö·ÖÆÁµÄ×ÔÓÉÊ½»áÒéÄ£ÄâÑ§ÊõÈí¼þ¡£¸ÃÈí¼þ½«»áÏò¸ü¼Ó×ÔÓÉ£¨¼´Ã»ÓÐÓÃ¹ý¶à»áÒé¹æÔòÔ¼Êøµ«¿ÉÒÔÊÊÓ¦²»Í¬»áÒé¹æÔò£©µÄ·½Ïò·¢Õ¹¡£
-
-
-> ÌØÉ«¹¦ÄÜ
-
-MockFormula£¨ÒÔÏÂ¼ò³ÆMF£©Ìá¹©ÆäËûÈí¼þ²»ÄÜÌá¹©µÄ·ÖÆÁ¹¦ÄÜ£¬Äã¿ÉÒÔÔÚ»áÒé´óÆÁÄ»ÉÏÏÔÊ¾×Å¾«¼òµÄ»áÒéÐÅÏ¢£¬Í¬Ê±ÔÚ×Ô¼ºµÄÆÁÄ»ÉÏÍæ×ÅÓÎÏ·¡£MF»¹Ö§³ÖÓïÒô¹¦ÄÜ£¨ÕýÔÚÍêÉÆ£©£¬ËüÄÜ¹»ÀÊ¶ÁÐÂµÄ¶¯Òé¡¢ÐÂµÄÎÊÌâ¡¢×Ô¶¨ÒåµÄ¾ä×ÓµÈ£¬ÈÃ»áÒéÖ÷³ÖÕß£¨Ö÷Ï¯ÍÅ»òÆäËû£©µÄÉ¤×Ó±£³Ö½¡¿µ×´Ì¬¡£µ±È»£¬Æä»áÒé´óÆÁÄ»´°¿ÚÉÏ¼ò½àµÄ²¼¾ÖºÍÁéÇÉµÄ¶¯»­Ò²»áÈÃÄãÑÛÇ°Ò»ÁÁ¡£¿ØÖÆ½çÃæ½ÏÍ¬ÀàÈí¼þ½«¸ü¶àµÄ¹¦ÄÜÕ¹¿ª£¬±ãÓÚ¿ØÖÆÕß¿ìËÙ²Ù×÷¡£
-
-
-> ¶ÔÓïÑÔµÄÖ§³Ö
-
-Ä¿Ç°MockFormulaÖ§Ö§³ÖÖÐÎÄ¡£ÒòÎªµ±³õ¿ªÊ¼×öÕâ¸öÏîÄ¿¾ÍÃ»´òËãÎ¬»¤¶à³¤Ê±¼ä¡£µ«ºóÀ´µÄÐèÇóÓÖÒªÇóMockFormula¾ßÓÐ¶àÓïÑÔÖ§³Ö¡£¶ÔÓ¢Ä¶µÄÖ§³Ö½«»áÔÚÒ»¶ÎÊ±¼äºó·¢²¼¡£
-
-
-> »ñÈ¡ºÍÊ¹ÓÃ
-
-ÏëÒªÏÂÔØºÍÊ¹ÓÃ£¬ÇëÇ°Íù https://gitee.com/VisualDust/MockFormula/repository/archive/master.zip ÏÂÔØ¡£
-
-
-> Ê¹ÓÃMockFormula¶ÔµçÄÔµÄÒªÇó
-
-CPU   ÍÆ¼öCorei3ËÄ´ú»òÐÔÄÜ¸üºÃ£¬
-          ×îµÍÃ»ÓÐÏÂÏÞ¡£Ö»Òª²»ÊÇIntel8008	¡£
-RAM  ÍÆ¼ö4GB»ò¸ü¸ß£¬
-          ×îµÍÖ»ÒªÄãµÄµçÄÔÄÜ¿ª»ú¾ÍÐÐ¡£
-
-
-> ¿ª·¢ºÍ¹±Ï×
-
-Õâ¸öÏîÄ¿µÄËùÓÐÕß@VisualDustÒÔ¼°Õâ¸öÏîÄ¿µÄËùÓÐ¹±Ï×Õß@VisualDustºÍ@PaperCubeÄ¿Ç°¶¼ÔÚ¶Á¸ßÖÐ£¬¶¼ÊÇ°®Ñ§Ï°µÄºÃº¢×Ó¡£# EMPTY
 # æœ€è¿‘ä¸€æ¬¡COMMIT
 
 COMMITçš„æ—¶é—´
-2018å¹´ 07æœˆ 12æ—¥ æ˜ŸæœŸå›› 09:43:45 CST
+2018å¹´ 07æœˆ 12æ—¥ æ˜ŸæœŸå›› 09:45:07 CST
 ---
 > æ˜¯è°COMMIT
 
@@ -87,7 +56,8 @@ https://github.com/visualDust/MockFormula.git
 > COMMITçš„ç»†èŠ‚
 
 ä½äºŽåˆ†æ”¯ master
-æ‚¨çš„åˆ†æ”¯ä¸Žä¸Šæ¸¸åˆ†æ”¯ 'origin/master' ä¸€è‡´ã€‚
+æ‚¨çš„åˆ†æ”¯é¢†å…ˆ 'origin/master' å…± 1 ä¸ªæäº¤ã€‚
+  ï¼ˆä½¿ç”¨ "git push" æ¥å‘å¸ƒæ‚¨çš„æœ¬åœ°æäº¤ï¼‰
 
 å°šæœªæš‚å­˜ä»¥å¤‡æäº¤çš„å˜æ›´ï¼š
   ï¼ˆä½¿ç”¨ "git add <æ–‡ä»¶>..." æ›´æ–°è¦æäº¤çš„å†…å®¹ï¼‰
@@ -95,6 +65,7 @@ https://github.com/visualDust/MockFormula.git
 
 	ä¿®æ”¹ï¼š     README.MD
 	ä¿®æ”¹ï¼š     README.md
+	ä¿®æ”¹ï¼š     RM
 
 ä¿®æ”¹å°šæœªåŠ å…¥æäº¤ï¼ˆä½¿ç”¨ "git add" å’Œ/æˆ– "git commit -a"ï¼‰
 ---
