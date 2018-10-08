@@ -1,43 +1,9 @@
 
-* If you want to download ..See here
-# Learn More
-
-> Introduction
-
-Mockformula, the original project name is Muncslemon. At the beginning of the 2018, the West Coast simulation of the United Nations Organizing Committee under the request began to develop an open source, free, powerful, supporting the split-screen of the free Conference simulation of the academic software. The software will evolve in a way that is more free (that is, not overly meeting rules but adaptable to different meeting rules).
-
-
-> Featured Features
-
-Mockformula (hereinafter referred to as MF) provides a split-screen feature that is not available in other software, and you can display streamlined meeting information on a large conference screen while playing games on your own screen. MF also supports voice function (is being perfected), it can read new motions, new questions, custom sentences, etc., so that the speaker (Bureau or other) voice of the Conference to maintain a healthy state. Of course, the simple layout and clever animations of the big-screen windows of their meetings will brighten your eyes. The control interface is more functional than similar software, which facilitates the quick operation of the controller.
-
-
-> Support for the language
-
-At present Mockformula support Chinese. Because I didn't intend to maintain it for as long as I started this project. But then demand demanded mockfor.
-
-
-> Get MockFormula (Download)
-
-To download and use, please go to https://gitee.com/VisualDust/MockFormula/repository/archive/master.zip for download.
-
-
->Requirements for computers using Mockformula
-
-CPU  recommended Corei3 Four generations or better performance,                  Minimum no lower bound.,As long as not Intel8008. .
-RAM recommended 4GB or higher.,
-         Minimum, as long as your computer can boot.
-
-
-> Development and contribution
-
-The owner of the project, @visualdust, and all contributors to the project, @visualdust and @papercube, are now in high school and are good kids who love to study .
-
-
+﻿# 我可能不记得你，但我记得你的U盘
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 07月 12日 星期四 09:45:07 CST
+Mon, Oct  8, 2018  8:19:43 PM
 ---
 > 是谁COMMIT
 
@@ -55,28 +21,195 @@ https://github.com/visualDust/MockFormula.git
 ---
 > COMMIT的细节
 
-位于分支 master
-您的分支领先 'origin/master' 共 1 个提交。
-  （使用 "git push" 来发布您的本地提交）
+On branch master
+Your branch is up to date with 'public/master'.
 
-尚未暂存以备提交的变更：
-  （使用 "git add <文件>..." 更新要提交的内容）
-  （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
-	修改：     README.MD
-	修改：     README.md
-	修改：     RM
+	modified:   .github/ISSUE_TEMPLATE/bug_report.md
+	modified:   .github/ISSUE_TEMPLATE/feature_request.md
+	modified:   .gitignore
+	modified:   .idea/libraries/weblaf_complete_1_28.xml
+	modified:   .idea/libraries/weblaf_complete_1_281.xml
+	modified:   .idea/misc.xml
+	modified:   .idea/modules.xml
+	modified:   .idea/workspace.xml
+	modified:   CODE_OF_CONDUCT.md
+	modified:   CONTRIBUTING.md
+	modified:   LICENSE
+	modified:   LayOut/META-INF/MANIFEST.MF
+	modified:   MockFormula/2018-05-27MF.log
+	modified:   MockFormula/2018-06-03MF.log
+	modified:   MockFormula/MUNCS.iml
+	modified:   MockFormula/MockFormula.iml
+	modified:   MockFormula/out/production/MockFormula/META-INF/MANIFEST.MF
+	modified:   MockFormula/out/production/MockFormula/MockFormula/Database/DataResource.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/Database/Defaultcountries.list
+	modified:   MockFormula/out/production/MockFormula/MockFormula/Database/ICONIMG.png
+	modified:   MockFormula/out/production/MockFormula/MockFormula/Database/startupwindowcoffee.png
+	modified:   MockFormula/out/production/MockFormula/MockFormula/Database/startupwindowlemon.png
+	modified:   MockFormula/out/production/MockFormula/MockFormula/Database/weblaf_complete_1.28.jar
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$10.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$11.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$12.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$13.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$14.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$15.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$16.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$17.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$18$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$18.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$3.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$4.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$5.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$6.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$7.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$8.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$9.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$list$Order.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists$list.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/OrderLists.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/Resource.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure/VersionView.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/MFLauncher$ProcessThread.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/MFLauncher.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/Clockcontrol$clockerthread.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/Clockcontrol.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/EventOutput.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/Filereader.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/RAMCleaner$cleaner.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/RAMCleaner.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/Speaker$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/Speaker$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/Speaker.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/TempCreater$1tempwaitthr.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/Method/TempCreater.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/CheckItemPanel.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$10.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$11.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$12.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$13.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$14.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$15.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$16.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$17.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$18.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$19.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$1waitthr.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$20.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$21.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$22.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$23.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$24.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$25.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$26.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$27.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$28.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$29.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$3.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$30.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$31.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$32.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$4.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$5.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$6.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$7.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$8.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$9.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$EmptyImageObserver.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow$ThumbPanel.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/ConsoleWindow.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$1$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$2$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$3.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$4.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$5.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow$6.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/DisplayConfigWindow.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditAnnouncementWindow$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditAnnouncementWindow$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditAnnouncementWindow.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditQuestionWindow$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditQuestionWindow$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/EditQuestionWindow.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/MessageWindow.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$3.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$4.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$5.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$6.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel$7.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/SpeakerPanel.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console/VoiceConfigWindow.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenCover.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$1.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$2.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$3.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$CaptureService.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$colorchangethread.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$inforactioncolormovingthread.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$questionactioncolormovingthread.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow$windowSizeChangeListener.class
+	modified:   MockFormula/out/production/MockFormula/MockFormula/lib/UI/Display/ScreenWindow.class
+	modified:   MockFormula/studio.visualdust.product.muncs/META-INF/MANIFEST.MF
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/Database/DataResource.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/Database/Defaultcountries.list
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/Database/ICONIMG.png
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/Database/startupwindowcoffee.png
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/Database/startupwindowlemon.png
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/Database/weblaf_complete_1.28.jar
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/DataStructure/OrderLists.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/DataStructure/Resource.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/DataStructure/VersionView.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/MFLauncher.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/Clockcontrol.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/EventOutput.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/Filereader.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/RAMCleaner.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/Speaker.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/Method/TempCreater.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/CheckItemPanel.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/ConsoleWindow.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/DisplayConfigWindow.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/EditAnnouncementWindow.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/EditQuestionWindow.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/MessageWindow.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/SpeakerPanel.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/VoiceConfigWindow.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Display/ScreenCover.java
+	modified:   MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Display/ScreenWindow.java
+	modified:   PULL_REQUEST_TEMPLATE.md
+	modified:   README.MD
+	modified:   README.md
+	modified:   RM
+	deleted:    commit.sh
+	modified:   "\346\234\200\345\220\216\344\270\200\346\254\241PUSH\347\232\204\350\257\264\346\230\216.useless"
 
-修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	2018-07-13MF.log
+	out/
+
+no changes added to commit (use "git add" and/or "git commit -a")
 ---
 > 当前文件列表
 
 ```
 .:
-CODE_OF_CONDUCT.md  LICENSE		      RM
-commit.sh	    MockFormula		      最后一次PUSH的说明.useless
-CONTRIBUTING.md     PULL_REQUEST_TEMPLATE.md
-LayOut		    README.md
+2018-07-13MF.log    LICENSE		      README.md
+CODE_OF_CONDUCT.md  MockFormula		      RM
+CONTRIBUTING.md     out			      最后一次PUSH的说明.useless
+LayOut		    PULL_REQUEST_TEMPLATE.md
 
 ./LayOut:
 META-INF
@@ -113,58 +246,58 @@ DataResource.class     ICONIMG.png		startupwindowlemon.png
 Defaultcountries.list  startupwindowcoffee.png	weblaf_complete_1.28.jar
 
 ./MockFormula/out/production/MockFormula/MockFormula/lib:
-DataStructure  Method  MFLauncher.class  MFLauncher$ProcessThread.class  UI
+DataStructure  Method  MFLauncher$ProcessThread.class  MFLauncher.class  UI
 
 ./MockFormula/out/production/MockFormula/MockFormula/lib/DataStructure:
-OrderLists$10.class  OrderLists$18$1.class  OrderLists$7.class
-OrderLists$11.class  OrderLists$18.class    OrderLists$8.class
-OrderLists$12.class  OrderLists$1.class     OrderLists$9.class
-OrderLists$13.class  OrderLists$2.class     OrderLists.class
-OrderLists$14.class  OrderLists$3.class     OrderLists$list.class
-OrderLists$15.class  OrderLists$4.class     OrderLists$list$Order.class
-OrderLists$16.class  OrderLists$5.class     Resource.class
-OrderLists$17.class  OrderLists$6.class     VersionView.class
+OrderLists$1.class   OrderLists$17.class    OrderLists$7.class
+OrderLists$10.class  OrderLists$18$1.class  OrderLists$8.class
+OrderLists$11.class  OrderLists$18.class    OrderLists$9.class
+OrderLists$12.class  OrderLists$2.class     OrderLists$list$Order.class
+OrderLists$13.class  OrderLists$3.class     OrderLists$list.class
+OrderLists$14.class  OrderLists$4.class     OrderLists.class
+OrderLists$15.class  OrderLists$5.class     Resource.class
+OrderLists$16.class  OrderLists$6.class     VersionView.class
 
 ./MockFormula/out/production/MockFormula/MockFormula/lib/Method:
-Clockcontrol.class		  Speaker$1.class
-Clockcontrol$clockerthread.class  Speaker$2.class
+Clockcontrol$clockerthread.class  Speaker$1.class
+Clockcontrol.class		  Speaker$2.class
 EventOutput.class		  Speaker.class
 Filereader.class		  TempCreater$1tempwaitthr.class
-RAMCleaner.class		  TempCreater.class
-RAMCleaner$cleaner.class
+RAMCleaner$cleaner.class	  TempCreater.class
+RAMCleaner.class
 
 ./MockFormula/out/production/MockFormula/MockFormula/lib/UI:
 Console  Display
 
 ./MockFormula/out/production/MockFormula/MockFormula/lib/UI/Console:
 CheckItemPanel.class	      ConsoleWindow$7.class
-ConsoleWindow$10.class	      ConsoleWindow$8.class
-ConsoleWindow$11.class	      ConsoleWindow$9.class
-ConsoleWindow$12.class	      ConsoleWindow.class
-ConsoleWindow$13.class	      ConsoleWindow$EmptyImageObserver.class
-ConsoleWindow$14.class	      ConsoleWindow$ThumbPanel.class
-ConsoleWindow$15.class	      DisplayConfigWindow$1$1.class
-ConsoleWindow$16.class	      DisplayConfigWindow$1.class
-ConsoleWindow$17.class	      DisplayConfigWindow$2$1.class
-ConsoleWindow$18.class	      DisplayConfigWindow$2.class
-ConsoleWindow$19.class	      DisplayConfigWindow$3.class
-ConsoleWindow$1.class	      DisplayConfigWindow$4.class
+ConsoleWindow$1.class	      ConsoleWindow$8.class
+ConsoleWindow$10.class	      ConsoleWindow$9.class
+ConsoleWindow$11.class	      ConsoleWindow$EmptyImageObserver.class
+ConsoleWindow$12.class	      ConsoleWindow$ThumbPanel.class
+ConsoleWindow$13.class	      ConsoleWindow.class
+ConsoleWindow$14.class	      DisplayConfigWindow$1$1.class
+ConsoleWindow$15.class	      DisplayConfigWindow$1.class
+ConsoleWindow$16.class	      DisplayConfigWindow$2$1.class
+ConsoleWindow$17.class	      DisplayConfigWindow$2.class
+ConsoleWindow$18.class	      DisplayConfigWindow$3.class
+ConsoleWindow$19.class	      DisplayConfigWindow$4.class
 ConsoleWindow$1waitthr.class  DisplayConfigWindow$5.class
-ConsoleWindow$20.class	      DisplayConfigWindow$6.class
-ConsoleWindow$21.class	      DisplayConfigWindow.class
-ConsoleWindow$22.class	      EditAnnouncementWindow$1.class
-ConsoleWindow$23.class	      EditAnnouncementWindow$2.class
-ConsoleWindow$24.class	      EditAnnouncementWindow.class
-ConsoleWindow$25.class	      EditQuestionWindow$1.class
-ConsoleWindow$26.class	      EditQuestionWindow$2.class
-ConsoleWindow$27.class	      EditQuestionWindow.class
-ConsoleWindow$28.class	      MessageWindow.class
-ConsoleWindow$29.class	      SpeakerPanel$1.class
-ConsoleWindow$2.class	      SpeakerPanel$2.class
-ConsoleWindow$30.class	      SpeakerPanel$3.class
-ConsoleWindow$31.class	      SpeakerPanel$4.class
-ConsoleWindow$32.class	      SpeakerPanel$5.class
-ConsoleWindow$3.class	      SpeakerPanel$6.class
+ConsoleWindow$2.class	      DisplayConfigWindow$6.class
+ConsoleWindow$20.class	      DisplayConfigWindow.class
+ConsoleWindow$21.class	      EditAnnouncementWindow$1.class
+ConsoleWindow$22.class	      EditAnnouncementWindow$2.class
+ConsoleWindow$23.class	      EditAnnouncementWindow.class
+ConsoleWindow$24.class	      EditQuestionWindow$1.class
+ConsoleWindow$25.class	      EditQuestionWindow$2.class
+ConsoleWindow$26.class	      EditQuestionWindow.class
+ConsoleWindow$27.class	      MessageWindow.class
+ConsoleWindow$28.class	      SpeakerPanel$1.class
+ConsoleWindow$29.class	      SpeakerPanel$2.class
+ConsoleWindow$3.class	      SpeakerPanel$3.class
+ConsoleWindow$30.class	      SpeakerPanel$4.class
+ConsoleWindow$31.class	      SpeakerPanel$5.class
+ConsoleWindow$32.class	      SpeakerPanel$6.class
 ConsoleWindow$4.class	      SpeakerPanel$7.class
 ConsoleWindow$5.class	      SpeakerPanel.class
 ConsoleWindow$6.class	      VoiceConfigWindow.class
@@ -175,11 +308,11 @@ ScreenWindow$1.class
 ScreenWindow$2.class
 ScreenWindow$3.class
 ScreenWindow$CaptureService.class
-ScreenWindow.class
 ScreenWindow$colorchangethread.class
 ScreenWindow$inforactioncolormovingthread.class
 ScreenWindow$questionactioncolormovingthread.class
 ScreenWindow$windowSizeChangeListener.class
+ScreenWindow.class
 
 ./MockFormula/studio.visualdust.product.muncs:
 META-INF  MockFormula
@@ -214,6 +347,94 @@ DisplayConfigWindow.java  MessageWindow.java
 
 ./MockFormula/studio.visualdust.product.muncs/MockFormula/lib/UI/Display:
 ScreenCover.java  ScreenWindow.java
+
+./out:
+production
+
+./out/production:
+MockFormula
+
+./out/production/MockFormula:
+META-INF  MockFormula
+
+./out/production/MockFormula/META-INF:
+MANIFEST.MF
+
+./out/production/MockFormula/MockFormula:
+Database  lib
+
+./out/production/MockFormula/MockFormula/Database:
+DataResource.class     ICONIMG.png		startupwindowlemon.png
+Defaultcountries.list  startupwindowcoffee.png	weblaf_complete_1.28.jar
+
+./out/production/MockFormula/MockFormula/lib:
+DataStructure  Method  MFLauncher$ProcessThread.class  MFLauncher.class  UI
+
+./out/production/MockFormula/MockFormula/lib/DataStructure:
+OrderLists$1.class   OrderLists$17.class    OrderLists$7.class
+OrderLists$10.class  OrderLists$18$1.class  OrderLists$8.class
+OrderLists$11.class  OrderLists$18.class    OrderLists$9.class
+OrderLists$12.class  OrderLists$2.class     OrderLists$list$Order.class
+OrderLists$13.class  OrderLists$3.class     OrderLists$list.class
+OrderLists$14.class  OrderLists$4.class     OrderLists.class
+OrderLists$15.class  OrderLists$5.class     Resource.class
+OrderLists$16.class  OrderLists$6.class     VersionView.class
+
+./out/production/MockFormula/MockFormula/lib/Method:
+Clockcontrol$clockerthread.class  Speaker$1.class
+Clockcontrol.class		  Speaker$2.class
+EventOutput.class		  Speaker.class
+Filereader.class		  TempCreater$1tempwaitthr.class
+RAMCleaner$cleaner.class	  TempCreater.class
+RAMCleaner.class
+
+./out/production/MockFormula/MockFormula/lib/UI:
+Console  Display
+
+./out/production/MockFormula/MockFormula/lib/UI/Console:
+CheckItemPanel.class	      ConsoleWindow$7.class
+ConsoleWindow$1.class	      ConsoleWindow$8.class
+ConsoleWindow$10.class	      ConsoleWindow$9.class
+ConsoleWindow$11.class	      ConsoleWindow$EmptyImageObserver.class
+ConsoleWindow$12.class	      ConsoleWindow$ThumbPanel.class
+ConsoleWindow$13.class	      ConsoleWindow.class
+ConsoleWindow$14.class	      DisplayConfigWindow$1$1.class
+ConsoleWindow$15.class	      DisplayConfigWindow$1.class
+ConsoleWindow$16.class	      DisplayConfigWindow$2$1.class
+ConsoleWindow$17.class	      DisplayConfigWindow$2.class
+ConsoleWindow$18.class	      DisplayConfigWindow$3.class
+ConsoleWindow$19.class	      DisplayConfigWindow$4.class
+ConsoleWindow$1waitthr.class  DisplayConfigWindow$5.class
+ConsoleWindow$2.class	      DisplayConfigWindow$6.class
+ConsoleWindow$20.class	      DisplayConfigWindow.class
+ConsoleWindow$21.class	      EditAnnouncementWindow$1.class
+ConsoleWindow$22.class	      EditAnnouncementWindow$2.class
+ConsoleWindow$23.class	      EditAnnouncementWindow.class
+ConsoleWindow$24.class	      EditQuestionWindow$1.class
+ConsoleWindow$25.class	      EditQuestionWindow$2.class
+ConsoleWindow$26.class	      EditQuestionWindow.class
+ConsoleWindow$27.class	      MessageWindow.class
+ConsoleWindow$28.class	      SpeakerPanel$1.class
+ConsoleWindow$29.class	      SpeakerPanel$2.class
+ConsoleWindow$3.class	      SpeakerPanel$3.class
+ConsoleWindow$30.class	      SpeakerPanel$4.class
+ConsoleWindow$31.class	      SpeakerPanel$5.class
+ConsoleWindow$32.class	      SpeakerPanel$6.class
+ConsoleWindow$4.class	      SpeakerPanel$7.class
+ConsoleWindow$5.class	      SpeakerPanel.class
+ConsoleWindow$6.class	      VoiceConfigWindow.class
+
+./out/production/MockFormula/MockFormula/lib/UI/Display:
+ScreenCover.class
+ScreenWindow$1.class
+ScreenWindow$2.class
+ScreenWindow$3.class
+ScreenWindow$CaptureService.class
+ScreenWindow$colorchangethread.class
+ScreenWindow$inforactioncolormovingthread.class
+ScreenWindow$questionactioncolormovingthread.class
+ScreenWindow$windowSizeChangeListener.class
+ScreenWindow.class
 ```
 
 Auto commit by VisualDust

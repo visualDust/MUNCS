@@ -1,0 +1,16 @@
+2018-07-13T15:41:59.822574 Event : MockFormula 2018.6.0 OL_startup
+  2018-07-13T15:41:59.838267 Exception : java.io.IOException: Cannot run program "mshta": error=2, 没有那个文件或目录
+2018-07-13T15:42:04.415315 Event : PopupTrigger at Screen_now_panel
+2018-07-13T15:42:08.527266 Event : PopupTrigger at Screen_now_panel
+2018-07-13T15:42:13.389624 Event : PopupTrigger at Screen_now_panel
+2018-07-13T15:42:20.161173 Event : PopupTrigger at Screen_now_panel
+2018-07-13T15:42:21.402431 Event : Config_Wind show
+2018-07-13T15:42:26.867191 Event : PopupTrigger at screen_next_text_area
+2018-07-13T15:42:27.225114 Event : PopupTrigger at Screen_now_panel
+2018-07-13T15:42:52.780796 Event : twiter_text_field Keyboard pressed ENTER
+2018-07-13T15:43:51.589618 Event : Info_filler_yes_Button clicked
+2018-07-13T15:43:54.439520 Event : PopupTrigger at Screen_now_panel
+  2018-07-13T15:43:59.145125 Exception : java.io.IOException: Cannot run program "mshta": error=2, 没有那个文件或目录
+2018-07-13T15:44:44.000830 Event : WINDOW_CLOSE_CLICKED
+  2018-07-13T15:44:45.520550 Exception : java.io.IOException: Cannot run program "taskkill": error=2, 没有那个文件或目录
+2018-07-13T15:44:45.522698 Event : MockFormula 2018.6.0 OL_stop

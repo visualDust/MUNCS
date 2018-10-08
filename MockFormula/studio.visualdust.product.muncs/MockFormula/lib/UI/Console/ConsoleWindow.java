@@ -28,7 +28,7 @@ public class ConsoleWindow {
     private DisplayConfigWindow configwind = new DisplayConfigWindow();
 
     private JPanel border = new JPanel();
-    private JPanel subframe_left = new JPanel();
+    public JPanel subframe_left = new JPanel();
     private JPanel leftdownPanel = new JPanel();
     private JPanel subframe_right = new JPanel();
     public JPanel listpanel = new JPanel();
